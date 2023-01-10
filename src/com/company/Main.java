@@ -30,4 +30,15 @@ public class Main {
     }
 
 
+    public static class Subtraction implements Operations{
+
+
+        @Override
+        public int calc(int a, int b) {
+            return a-b;
+
+        }
+    }
+
+
 }
