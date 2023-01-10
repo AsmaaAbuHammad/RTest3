@@ -40,5 +40,16 @@ public class Main {
         }
     }
 
+    public static class Multiplication implements Operations{
+
+
+        @Override
+        public int calc(int a, int b) {
+            return a*b;
+
+        }
+    }
+
+
 
 }
