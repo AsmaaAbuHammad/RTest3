@@ -3,3 +3,7 @@
 user 1 add file 1
 
 user 2 add
+
+user2 2 modify
+
+user 1 modify file 1
